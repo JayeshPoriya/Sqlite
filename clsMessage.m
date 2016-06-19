@@ -1,9 +1,9 @@
 //
 //  clsMessage.m
-//  24by7Chat
+//  
 //
-//  Created by quad1 on 7/22/15.
-//  Copyright (c) 2015 quadsofttech. All rights reserved.
+//  Created by Jp on 7/22/15.
+//  Copyright (c) 2015 JayeshPoriya. All rights reserved.
 //
 
 #import "clsMessage.h"
